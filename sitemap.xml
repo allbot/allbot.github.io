@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>https://allbot.github.io/</loc>
+     <lastmod>2018-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://allbot.github.io/shell/</loc>
+     <lastmod>2018-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://allbot.github.io/sdk/</loc>
+     <lastmod>2018-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://allbot.github.io/emulator/</loc>
+     <lastmod>2018-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+        
+    <url>
+     <loc>https://allbot.github.io/docs/how-to/</loc>
+     <lastmod>2018-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+    <url>
+     <loc>https://allbot.github.io/glossary/</loc>
+     <lastmod>2018-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
