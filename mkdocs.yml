@@ -1,0 +1,17 @@
+site_name: Allbot℠ - An Operating System
+site_url: https://allbot.github.io
+repo_url: https://github.com/allbot/allbot.github.io.git
+site_description: 'Allbot Home gh-pages via mkdocs'
+google_analytics: ['UA-79146816-1', 'allbot.github.io']
+edit_uri: edit/master/docs/
+theme:
+  name: mkdocs
+  custom_dir: 'mkdocs_quarkonium'
+pages:
+  - Allbot℠: index.md
+  - Shell: shell.md
+  - SDK: sdk.md
+  - Emulator: emulator.md
+  - Documentation:
+    - How-to Guides: 'docs/how-to.md'
+  - Glossary: glossary.md
