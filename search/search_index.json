@@ -2,12 +2,12 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Allbot\u2120\n\n\nAN OPERATING SYSTEM\n\n\n \n KRAKEN\u1d45 RELEASE\n\n\n\n\n\u00a9 2018 Allbot Project \n \nhttp://allbot.win", 
+            "text": "Allbot\u2120\n\n\nA SMART CLOUD\n\n\n \n KRAKEN\u1d45 RELEASE\n\n\n\n\n\u00a9 2018 Allbot Project \n \nhttp://allbot.win", 
             "title": "Allbot\u2120"
         }, 
         {
             "location": "/#allbotsm", 
-            "text": "AN OPERATING SYSTEM     KRAKEN\u1d45 RELEASE   \u00a9 2018 Allbot Project    http://allbot.win", 
+            "text": "A SMART CLOUD     KRAKEN\u1d45 RELEASE   \u00a9 2018 Allbot Project    http://allbot.win", 
             "title": "Allbot\u2120"
         }, 
         {
@@ -39,6 +39,16 @@
             "location": "/emulator/#allbot-emulator", 
             "text": "RUN ALLBOT DAPPS ANYWHERE     KRAKEN\u1d45 RELEASE  \u00a9 2018 Allbot Project    http://allbot.win", 
             "title": "Allbot Emulator"
+        }, 
+        {
+            "location": "/docs/cloud/", 
+            "text": "Cloud Services\n\n\n\n\n \nAllbot Dos\n\n\n \nAllbot Dot", 
+            "title": "Cloud Services"
+        }, 
+        {
+            "location": "/docs/cloud/#cloud-services", 
+            "text": "Allbot Dos    Allbot Dot", 
+            "title": "Cloud Services"
         }, 
         {
             "location": "/docs/how-to/", 
