@@ -1,5 +1,5 @@
 # Allbot℠
-`AN OPERATING SYSTEM`
+`A SMART CLOUD`
 
 <img src="./img/logos/kraken.png" alt="Kraken Release" style="height:120px;"/> &nbsp; KRAKENᵅ RELEASE
 

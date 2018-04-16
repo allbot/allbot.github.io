@@ -1,2 +1,2 @@
 # Allbot℠
-`An Operating System`
+`A SMART CLOUD`
